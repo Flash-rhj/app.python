@@ -1,0 +1,77 @@
+[
+    {
+        "name": "GPT",
+        "type": "url",
+        "value": "https://chatgpt.com/g/g-cKXjWStaE-python/c/11c370b8-e7cf-47fb-973e-315b027a4e31"
+    },
+    {
+        "name": "百度",
+        "type": "url",
+        "value": "https://www.baidu.com/?lang=zh_CN"
+    },
+    {
+        "name": "CSDN",
+        "type": "url",
+        "value": "https://www.csdn.net/"
+    },
+    {
+        "name": "破译|盗版软件网站",
+        "type": "url",
+        "value": "https://www.rjsos.com/win"
+    },
+    {
+        "name": "YouTube",
+        "type": "url",
+        "value": "https://www.youtube.com/"
+    },
+    {
+        "name": "CSDN",
+        "type": "url",
+        "value": "https://blog.csdn.net/RHJflash?spm=1010.2135.3001.5343"
+    },
+    {
+        "name": "GitHub",
+        "type": "url",
+        "value": "https://github.com/"
+    },
+    {
+        "name": "Wikipedia（维基百科）",
+        "type": "url",
+        "value": "https://zh.wikipedia.org/zh-cn/Wikipedia:%E9%A6%96%E9%A1%B5"
+    },
+    {
+        "name": "公式识别网站",
+        "type": "url",
+        "value": "https://simpletex.cn/ai/latex_ocr"
+    },
+    {
+        "name": "绘制流程图",
+        "type": "url",
+        "value": "https://www.processon.com/diagrams"
+    },
+    {
+        "name": "PDF转换网址",
+        "type": "url",
+        "value": "https://www.ilovepdf.com/zh-cn"
+    },
+    {
+        "name": "VPN_charge(VPN充值网址)",
+        "type": "url",
+        "value": "https://sakuran.org/"
+    },
+    {
+        "name": "Google",
+        "type": "url",
+        "value": "https://www.google.com/"
+    },
+    {
+        "name": "VPN",
+        "type": "file",
+        "value": "D:/VPN/v2rayN-Core/v2rayN.exe"
+    },
+    {
+        "name": "1",
+        "type": "file",
+        "value": "D:/python/pythonProject2/imge.png"
+    }
+]
